@@ -1,0 +1,7 @@
+bettercam
+Pillow
+opencv-python
+numpy
+torch
+ultralytics
+configparser

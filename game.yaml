@@ -1,0 +1,18 @@
+# paths
+path: game  # path to the dataset
+train: images  # path to the training images
+val: val  # path to the validation images
+
+# class names
+names:
+  0: player
+  1: bot
+  2: weapon
+  3: outline
+  4: dead_body
+  5: hideout_target_human
+  6: hideout_target_balls
+  7: head
+  8: smoke
+  9: fire
+  10: third_person

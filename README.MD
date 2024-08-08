@@ -188,8 +188,9 @@ pause
 
 - [PyTorch](https://pytorch.org/)
 
-For always being there to educate and help
-- [Rootkit-Org]https://github.com/RootKit-Org/
+- [Rootkit-Org](https://github.com/RootKit-Org/)
+  For always being there to educate and help
+
 ## Contributing
 - Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
